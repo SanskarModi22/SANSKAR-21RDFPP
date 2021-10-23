@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:sizer/sizer.dart';
 
 import 'Screens/home_page.dart';
 
@@ -12,13 +13,17 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      title: 'Flutter Sample',
-      theme: ThemeData(
+    return Sizer(
+        builder: (context, orientation, deviceType) {
+      return MaterialApp(
+        debugShowCheckedModeBanner: false,
+        title: 'Flutter Sample',
+        theme: ThemeData(
 
-        primarySwatch: Colors.blue,
-      ),
-      home: const Home(),
+          primarySwatch: Colors.blue,
+        ),
+        home: const Home(),
+      );}
     );
   }
 }

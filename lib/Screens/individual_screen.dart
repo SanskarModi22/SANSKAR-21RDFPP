@@ -92,13 +92,13 @@ class _IndividualState extends State<Individual> {
                           Column(
                             children: [
                               Container(
-                                width: 30.w,
+                                width: 38.w,
                                 child: Text(
                                   widget.Room,
                                   style: TextStyle(
                                       color: Colors.white,
                                       fontWeight: FontWeight.bold,
-                                      fontSize: 27.sp),
+                                      fontSize: 25.sp),
                                   maxLines: 2,
                                 ),
                               ),
@@ -129,7 +129,7 @@ class _IndividualState extends State<Individual> {
                             ],
                           ),
                           SizedBox(
-                            width: 20.w,
+                            width: 14.w,
                           ),
                           Stack(children: [
                             Positioned(
