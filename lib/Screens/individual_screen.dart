@@ -395,6 +395,7 @@ class _IndividualState extends State<Individual> {
                                               width: 25.w,
                                               height: 7.h,
                                               child: Row(
+                                                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                                                 children: [
                                                   SvgPicture.asset(
                                                       "assets/surface1.svg"),
@@ -418,6 +419,7 @@ class _IndividualState extends State<Individual> {
                                               width: 25.w,
                                               height: 7.h,
                                               child: Row(
+                                                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                                                 children: [
                                                   SvgPicture.asset(
                                                       "assets/surface1.svg"),
@@ -449,6 +451,7 @@ class _IndividualState extends State<Individual> {
                                               width: 25.w,
                                               height: 7.h,
                                               child: Row(
+                                                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                                                 children: [
                                                   SvgPicture.asset(
                                                       "assets/surface1.svg"),
@@ -471,6 +474,7 @@ class _IndividualState extends State<Individual> {
                                               width: 25.w,
                                               height: 7.h,
                                               child: Row(
+                                                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                                                 children: [
                                                   SvgPicture.asset(
                                                       "assets/surface1.svg"),
