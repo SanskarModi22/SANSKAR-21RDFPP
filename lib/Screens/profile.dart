@@ -99,7 +99,7 @@ appBar: AppBar(
                                 width: 3.w,
                               ),
                               Container(
-                                width: 75.w,
+                                width: 70.w,
                                 child: Text(
                                   "modisanskar5@gmail.com",
                                   style: TextStyle(
@@ -118,7 +118,7 @@ appBar: AppBar(
                                 width: 3.w,
                               ),
                               Container(
-                                width: 75.w,
+                                width: 70.w,
                                 child: Text(
                                   "Indian Institute of Information Technology, Sonepat",
                                   maxLines: 2,
