@@ -340,7 +340,7 @@ class _IndividualState extends State<Individual> {
                                           color.length, (int index) {
                                         return Padding(
                                           padding: EdgeInsets.fromLTRB(
-                                              7, 0, 5, 0),
+                                              5, 0, 3, 0),
                                           child: InkWell(
                                             onTap: () {
                                               setState(() {
