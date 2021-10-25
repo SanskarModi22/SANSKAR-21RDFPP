@@ -1,6 +1,14 @@
-# home_electricity
+# SANSKAR-21RDFPP
 
-A new Flutter project.
+## Sreenshots
+
+<p float="left">
+
+<img src="https://user-images.githubusercontent.com/80542560/138568933-8e6fd7b5-8459-4712-b6b6-778a0a832f30.png" width="400" height="800">
+
+<img src="https://user-images.githubusercontent.com/80542560/138568942-acc5dcd1-0abf-4cb6-b3b9-14d857b590fd.png" width="400" height="800">
+</p>
+<img src="https://user-images.githubusercontent.com/80542560/138568946-e2b1c632-6b78-482b-b7f3-fb31c3718fc9.png" width="400" height="800">
 
 ## Getting Started
 
